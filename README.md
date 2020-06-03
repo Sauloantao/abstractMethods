@@ -2,8 +2,8 @@
 Faculdade Martha Falcão.
 Professora Sancha.
 
-## Img
-[Img](https://i.ytimg.com/vi/esw2BJ_CpXc/hqdefault.jpg)
+## Declaração do Grupo
+![declaracao](https://i.ytimg.com/vi/esw2BJ_CpXc/hqdefault.jpg)
 
 ## Equipe:
   - Saulo Antão
